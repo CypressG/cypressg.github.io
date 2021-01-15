@@ -9,14 +9,16 @@ function InsertTitle(){
     let MovieName = document.getElementById("MovieName")
     let MoviePoster = document.getElementById("MoviePoster")
     let Youtube = document.getElementById("Youtube")
+    let TrailerText = document.getElementById("TrailerText")
     MovieName.innerHTML = data.Movies[movie].Movie
     MoviePoster.src = data.Movies[movie].Poster
     Youtube.src = data.Movies[movie].Trailer
     Youtube.width = "420"
     Youtube.height = "315"
+    TrailerText.innerHTML = "Trailer"
     setImageVisible("MoviePoster",true)
     setImageVisible("Youtube",true)
-    
+
 }
 
 function setImageVisible(id, visible) {
