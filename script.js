@@ -12,8 +12,8 @@ function InsertTitle(){
     MovieName.innerHTML = data.Movies[movie].Movie
     MoviePoster.src = data.Movies[movie].Poster
     Youtube.src = data.Movies[movie].Trailer
-    Youtube.width = 420
-    Youtube.height = 315
+    Youtube.width = "420"
+    Youtube.height = "315"
     setImageVisible("MoviePoster",true)
     setImageVisible("Youtube",true)
 
