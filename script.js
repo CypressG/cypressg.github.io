@@ -1,6 +1,6 @@
 function randomMovie(){
     let length = data.Movies.length;
-    let movieId = Math.floor(Math.random() * length + 1);
+    let movieId = Math.floor(Math.random() * length);
     return movieId;
 }
 
@@ -8,8 +8,10 @@ function InsertTitle(){
     let movie = randomMovie()
     let MovieName = document.getElementById("MovieName")
     let MoviePoster = document.getElementById("MoviePoster")
+    let Youtube = document.getElementById("Youtube")
     MovieName.innerHTML = data.Movies[movie].Movie
     MoviePoster.src = data.Movies[movie].Poster
+    Youtube.src = data.Movies[10].Trailer
     setImageVisible("MoviePoster",true)
 
 }
