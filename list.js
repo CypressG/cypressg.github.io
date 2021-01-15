@@ -190,115 +190,115 @@ const data = {
             "ID": 32,
             "Movie": "Mad Max",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/caHnaRq8Qlg"
         },
         {
             "ID": 33,
             "Movie": "Scary Movie",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjdjMGQtZmYzZC00N2I4LThiY2QtNWY5ZmQ3M2ExZmM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/_dktIVAfjzY"
         },
         {
             "ID": 34,
             "Movie": "Rush Hour",
             "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/JMiFsFQcFLE"
         },
         {
             "ID": 35,
             "Movie": "Reservoir Dogs",
             "Poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/vayksn4Y93A"
         },
         {
             "ID": 36,
             "Movie": "Heat",
             "Poster": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/0xbBLJ1WGwQ"
         },
         {
             "ID": 37,
             "Movie": "Escape From New York",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/PYYZFcvQfRg"
         },
         {
             "ID": 38,
             "Movie": "Platoon",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/hGsyEkfjhQk"
         },
         {
             "ID": 39,
             "Movie": "The Warriors",
             "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2MWRiMTMtYzAzZi00NGYzLTlkMDEtNWQ3MzZlNTJlNzZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/--gdB-nnQkU"
         },
         {
             "ID": 40,
             "Movie": "James Bond",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMWRkZTI4NzktYjA4Yi00ZjE0LTgzOWQtYzJlMTkyOTU1ODRmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/pw61uyA0F8A"
         },
         {
             "ID": 41,
             "Movie": "Army Of Darkness",
             "Poster": "https://m.media-amazon.com/images/M/MV5BODcyYzM4YTAtNGM5MS00NjU4LTk2Y2ItZjI5NjkzZTk0MmQ1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/JBhHufwxvv4"
         },
         {
             "ID": 42,
             "Movie": "Eraser",
             "Poster": "https://m.media-amazon.com/images/M/MV5BOTczMTNlN2UtMWE2NS00ZTUyLTgzYTQtYTFkNWIzODJkYzIwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/31_OEhX30sY"
         },
         {
             "ID": 43,
             "Movie": "Snatch",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY268_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/9Jar2XkBboo"
         },
         {
             "ID": 44,
             "Movie": "Crank",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/t2koYVqwzT4"
         },
         {
             "ID": 45,
             "Movie": "Transporter",
             "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_UY268_CR2,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/nafEbgWGXdk"
         },
         {
             "ID": 46,
             "Movie": "The Expendables",
             "Poster": "https://m.media-amazon.com/images/M/MV5BNTUwODQyNjM0NF5BMl5BanBnXkFtZTcwNDMwMTU1Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/C6RU5y2fU6s"
         },
         {
             "ID": 47,
             "Movie": "Way Of The Dragon",
             "Poster": "https://m.media-amazon.com/images/M/MV5BNGJlMTU5ZTYtZGNlOC00OGY5LTg0ODEtMWFkMTgyODc4OWZmXkEyXkFqcGdeQXVyNDIyMjczNjI@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/cZhsTCzKtQY"
         },
         {
             "ID": 48,
             "Movie": "The Fast and the Furious",
             "Poster": "https://m.media-amazon.com/images/M/MV5BNzlkNzVjMDMtOTdhZC00MGE1LTkxODctMzFmMjkwZmMxZjFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/2TAOizOnNPo"
         },
         {
             "ID": 49,
             "Movie": "xXx",
             "Poster": "https://m.media-amazon.com/images/M/MV5BNzZjZmM1ZDctNDhlZi00Mzk1LWFjNWItYzIxNGY2OWYzYjJmXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/Spx-Mx3xhYY"
         },
         {
             "ID": 50,
             "Movie": "Saving Private Ryan",
             "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY268_CR0,0,182,268_AL_.jpg",
-            "Trailer":""
+            "Trailer":"https://www.youtube.com/embed/9CiW_DgxCnQ"
         }
     ]
 }
