@@ -16,7 +16,7 @@ function InsertTitle(){
     Youtube.height = "315"
     setImageVisible("MoviePoster",true)
     setImageVisible("Youtube",true)
-
+    
 }
 
 function setImageVisible(id, visible) {
