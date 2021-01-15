@@ -13,6 +13,7 @@ function InsertTitle(){
     MoviePoster.src = data.Movies[movie].Poster
     Youtube.src = data.Movies[movie].Trailer
     setImageVisible("MoviePoster",true)
+    setImageVisible("Youtube",true)
 
 }
 
@@ -24,6 +25,4 @@ function setImageVisible(id, visible) {
 document.addEventListener('DOMContentLoaded', function() {
 setImageVisible("MoviePoster",false)
 setImageVisible("Youtube",false)
-
-
 })
